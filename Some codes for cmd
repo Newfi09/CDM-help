@@ -1,4 +1,8 @@
-#The use the following codes bellow in cdm
+# CDM-help
+The following codes bellow are for CMD
+
+
+
 ping www.Putwebsitenamehere.com org ect
 nslookup www.putwebsitenamehere.com org ect
 tracert www.putwebsitenamehere.com org ect
